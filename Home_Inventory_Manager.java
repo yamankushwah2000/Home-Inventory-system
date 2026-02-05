@@ -65,7 +65,7 @@ public class Home_Inventory_Manager extends JFrame{
     }
     public Home_Inventory_Manager()
     {
-// frame constructor
+// frame constructor check branch
         setTitle("Home Inventory Manager");
         setResizable(false);
         setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
